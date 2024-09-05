@@ -74,13 +74,11 @@ Com este dashboard, os stakeholders poderão:
 
 4. Localizar geograficamente as operações da empresa.
 
-## 🚀 ¡Manos a la obra! / Mãos à obra!
+## 🚀 Visualización del dashboard realizado / Visualização do dashboard criado
 
-ES:
-Explora las visualizaciones y descubre cómo los datos pueden transformar las decisiones de la empresa.
 
-PT:
-Explore as visualizações e descubra como os dados podem transformar as decisões da empresa.
+![Dashboard](Dashboard%20Telos.png)
+
 
 ## 👩‍💻 Desarrolladora / Desenvolvedora 
 
