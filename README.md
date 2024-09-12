@@ -77,7 +77,9 @@ Com este dashboard, os stakeholders poderão:
 ## 🚀 Visualización del dashboard realizado / Visualização do dashboard criado
 
 
-![Dashboard](Dashboard%20Telos.png)
+![Dashboard-pt](Dashboard%20Telos.png)
+
+![Dashboard-sp](Nivel3-sp.png)
 
 
 ## 👩‍💻 Desarrolladora / Desenvolvedora 
